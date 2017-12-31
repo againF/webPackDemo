@@ -1,13 +1,3 @@
-@font-face {
-    font-family: 'MyFont';
-    src: url('./icomoon.ttf') format('ttf'),
-         url('./icomoon.woff2') format('woff2');
-    font-weight: 600;
-    font-style: normal;
-}
-
-.hello {
-    color: red;
-    font-family: 'MyFont';
-    background: url('./Penguins.jpg');
+body {
+	background: blue;
 }
